@@ -1,8 +1,8 @@
 # 1. General Provisions
 
-1.1. Participants in the professional eSports competition "CyberClash Open" (hereinafter referred to as the Competition) must be familiar with and comply with the Competition Regulations.
+1.1. Participants in the professional eSports competition "CyberClash Season 3" (hereinafter referred to as the Competition) must be familiar with and comply with the Competition Regulations.
 
-1.1.1. Competition Regulations are the Technical Rules, the Regulations of the professional eSports competition "CyberClash Open", as well as other documents, the list of which is determined by the Competition Regulations.
+1.1.1. Competition Regulations are the Technical Rules, the Regulations of the professional eSports competition "CyberClash Season 3", as well as other documents, the list of which is determined by the Competition Regulations.
 
 1.1.2. Submitting an application to participate in the Competition confirms that each participant has read the provisions of the regulatory documents and agreed to comply with them.
 
